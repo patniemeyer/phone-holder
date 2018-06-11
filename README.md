@@ -5,7 +5,7 @@ _Pat Niemeyer (pat@pat.net), https://github.com/patniemeyer/phone-holder)
 <table>
   <tr>
     <th>
-      <video src="Media/phone-holder-car.gif" width="220"/>
+      <img src="Media/phone-holder-car.gif" width="220"/>
     </th>
     <th>
       <img src="Media/view1.png" width="220"/>
