@@ -30,7 +30,12 @@ I was able to print this easily with only supports on the center connector area 
 <img width="320" src="Media/supports.png">
 </p>
 
+An obvious improvement would be to make this printable in two sections for those who cannot print it in a single pass.
 
+## Issues
 
+The first version of this was thinner and I found that the PLA softened when the car was in direct sunlight, causing 
+it to droop a bit.  I will continue to refine this as I see how the new one holds up.  If you wish to experiment, just
+change the `phone_thickness` parameter in the scad file.
 
 
