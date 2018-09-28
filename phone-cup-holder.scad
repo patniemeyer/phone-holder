@@ -7,18 +7,24 @@
 
 include <rounded.scad>;
 
-//$fn=100; // Note: Increase $fn for final render.
-$fn=30;
+$fn=100; // Note: Increase $fn for final render.
+//$fn=30;
 
 O=0.1; // negligible offset
 OT=0.2; // negligible thickness
 
 layer_width=0.44;
 
-// Phone 
-phone_width_physical=71.75;  // The volume the phone will occupy
-phone_height_physical=144.5;
-phone_depth_physical=9.0; 
+// iPhone X
+//phone_width_physical=71.75;  // The volume the phone will occupy
+//phone_height_physical=144.5;
+//phone_depth_physical=9.0; 
+
+// iPhone Xs Max
+phone_width_physical=78.75;  
+phone_height_physical=159;
+phone_depth_physical=9.5; 
+
 phone_thickness=3.0; // case thickness
 phone_r=4; // curve radius, limited by phone depth
 phone_cutout_height=phone_height_physical*3/4;
