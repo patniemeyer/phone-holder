@@ -45,7 +45,7 @@ cup_depth = 67.0;
 
 // Connector
 con_width=phone_width/2;
-con_height=19.0;
+con_height=21.5;
 con_depth=cup_depth*3/4;
 con_r = 3;
 con_center_z = 12.0; // z height above cup holder
