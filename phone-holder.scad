@@ -13,7 +13,7 @@ $fn=50;
 width=3*25.4 + 1.0;
 height=6*25.4 - 2.5;
 depth=12.25;
-thickness=.0;
+thickness=1.5;
 r=4;
 cutoutHeight=height*2/3;
 
